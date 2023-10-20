@@ -1,0 +1,26 @@
+.card-title{
+    color:black;
+    background-color: rgb(112, 108, 108);
+    padding: 5px;
+}
+boby{
+    background-color: aquamarine;
+}
+.card{
+    background-color: rgb(154, 172, 172);
+}
+.button{
+    align-content: center;
+    justify-content: center;
+    color:brown;
+    background-color: beige;
+    
+}
+.back{
+    background:linear-gradient(45deg,rgb(162, 162, 226),rgb(193, 231, 193));
+    margin:5px;
+    padding:50px;
+}
+.button:hover{
+    color:aqua
+}
